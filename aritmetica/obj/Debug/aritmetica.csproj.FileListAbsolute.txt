@@ -1,0 +1,7 @@
+C:\Proyectos\Aritmetica\aritmetica\aritmetica\bin\aritmetica.dll
+C:\Proyectos\Aritmetica\aritmetica\aritmetica\bin\aritmetica.pdb
+C:\Proyectos\Aritmetica\aritmetica\aritmetica\bin\EntityFramework.dll
+C:\Proyectos\Aritmetica\aritmetica\aritmetica\bin\EntityFramework.xml
+C:\Proyectos\Aritmetica\aritmetica\aritmetica\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\Aritmetica\aritmetica\aritmetica\obj\Debug\aritmetica.dll
+C:\Proyectos\Aritmetica\aritmetica\aritmetica\obj\Debug\aritmetica.pdb

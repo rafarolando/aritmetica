@@ -1,0 +1,13 @@
+﻿@model aritmetica.Models.valores
+
+@{
+    ViewBag.Title = "Resta";
+}
+
+@using (Html.BeginForm())
+    {
+        @Html.TextBoxFor(x => x.valor1)<br/>
+        @Html.TextBoxFor(x => x.valor2)<br/>
+        <input type="submit" value="Aceptar"/>
+        @ViewBag.respuesta
+    }

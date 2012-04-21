@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aritmetica", "aritmetica\aritmetica.csproj", "{10D41B1D-8C0B-430C-9051-E3A80543DD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D41B1D-8C0B-430C-9051-E3A80543DD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D41B1D-8C0B-430C-9051-E3A80543DD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D41B1D-8C0B-430C-9051-E3A80543DD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D41B1D-8C0B-430C-9051-E3A80543DD19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
